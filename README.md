@@ -7,13 +7,13 @@ First, install [Yeoman](http://yeoman.io) and generator-news-van using [npm](htt
 
 ```bash
 npm install -g yo
-npm install -g generator-news-van
+npm install -g generator-news-spark
 ```
 
 Then generate your new project:
 
 ```bash
-yo news-van
+yo news-spark
 ```
 
 ## Getting To Know Yeoman
